@@ -9,5 +9,4 @@ This code allow us to compare our algorithm to two algorithms Dijkstra and A* by
 # Network_Lifetime_Statistical-Analysis-2
 This code allow us to have the Network Lifetime using RLDPP( our algorithm) and make a comparison with Dijkstra and A* algorithm using 20, 25, 30 nodes.
 
-# Dataset
-The dataset we are using are 4 network topology: 10, 20, 25, 30 nodes
+
