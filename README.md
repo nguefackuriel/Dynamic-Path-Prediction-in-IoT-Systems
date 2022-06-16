@@ -1,6 +1,6 @@
 # Dynamic-Path-Prediction-in-IoT-Systems
 
-# Design Reinforcement Environment-Code_Training_Agent
+# Design Reinforcement Learning Environment-Code_Training_Agent
 This code allow us to design our Reinforcement Learning, using a DQN algorithm and an epsilon greedy policy.
 
 # Energy_Consumption_Statistical-Analysis-1
